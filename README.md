@@ -13,7 +13,7 @@ I'm on a mission to go from **technical sales & product management** to full-fle
 - Fell in love with **cloud computing & automation**, and now I’m all about **deploying, securing, and scaling** cool things.  
 
 ## 🛠️ What I’m Playing With  
-- **Cloud & DevOps**: Learning my way around **Azure, AWS, and CI/CD** like a boss.  
+- **Cloud & DevOps**: Learning my way around **Azure, and CI/CD** like a boss.  
 - **Networking & Security**: Because a solid cloud setup needs a solid foundation.  
 - **Automation**: Making life easier with **GitHub Actions, Terraform & scripting magic**.  
 
